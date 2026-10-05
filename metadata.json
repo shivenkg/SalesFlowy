@@ -1,0 +1,8 @@
+{
+  "name": "Alpha-SalesOrbit",
+  "description": "Enterprise sales pipeline, real-time beat tracking, hierarchy oversight, and lead management app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
